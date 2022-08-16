@@ -7,7 +7,7 @@ modules:
 banner:
   bgImage: '/bg.svg'
   bgImageStyle: {
-    height: '550px'
+    height: '450px'
   }
   # heroImage: /hero_black.png
   heroImageStyle: {
@@ -22,7 +22,7 @@ blog:
     - { icon: 'BrandGithub', link: 'https://github.com/vwin' }
 footer:
   startYear: '2022'
-# actionText: About Me
-# actionLink: /views/personalInfo/
-#     - { icon: 'BrandTwitter', link: 'https://twitter.com/reco_luan' }
+#  actionText: About Me
+#  actionLink: /views/personalInfo/
+#    - { icon: 'BrandTwitter', link: 'https://twitter.com/reco_luan' }
 ---

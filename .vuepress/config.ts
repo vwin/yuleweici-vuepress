@@ -63,7 +63,9 @@ export default defineUserConfig({
         children: [
           { text: 'GitHub', link: 'https://github.com/vwin' },
         ]
-      }
+      },
+      { text: 'About', link: '/views/personal' },
+
     ],
     bulletin: {},
   }),
