@@ -9,7 +9,8 @@
     "dev": "vuepress dev .",
     "start": "vuepress dev .",
     "build": "vuepress build .",
-    "deploy": "bash scripts/deploy.sh"
+    "deploy": "bash scripts/deploy.sh",
+    "push": "bash scripts/push.sh"
   },
   "dependencies": {
     "vuepress": "2.0.0-beta.48",
