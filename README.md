@@ -26,3 +26,13 @@ footer:
 #  actionLink: /views/personalInfo/
 #    - { icon: 'BrandTwitter', link: 'https://twitter.com/reco_luan' }
 ---
+
+## 部署
+```shell
+sh scripts/deploy.sh
+```
+
+## 更新
+```shell
+sh scripts/push.sh
+```
