@@ -15,7 +15,7 @@ banner:
     display: block,
     margin: '5rem auto 0'
   }
-  heroText: 与乐为慈
+  heroText: 予乐为慈
   tagline: Enjoy when you can, and endure when you must.
 blog:
   socialLinks:

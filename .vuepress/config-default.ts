@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 import recoTheme from 'vuepress-theme-reco'
 
 export default defineUserConfig({
-  title: '与乐为慈',
+  title: '予乐为慈',
   description: 'Just For Fun',
   theme: recoTheme({
     style: '@vuepress-reco/style-default',
