@@ -4,7 +4,7 @@ import recoTheme from 'vuepress-theme-reco'
 
 export default defineUserConfig({
   base: '/yuleweici/',
-  title: '予乐为慈',
+  title: 'Yule-Vue',
   description: 'Just For Fun',
   head: [
     ['link', { rel: 'icon', href: '/favico2.ico' }],
