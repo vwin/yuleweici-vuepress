@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 import recoTheme from 'vuepress-theme-reco'
 
 export default defineUserConfig({
-  base: '/yuleweici/',
+  base: '/yuleweici-vuepress//',
   title: 'Yule-Vue',
   description: 'Just For Fun',
   head: [
@@ -15,7 +15,7 @@ export default defineUserConfig({
     logo: '/logo3.png',
     author: 'will',
     authorAvatar: '/avatar.jpg',
-    docsRepo: 'https://github.com/vwin/yuleweici',
+    docsRepo: 'https://github.com/vwin/yuleweici-vuepress',
     docsBranch: 'gh-pages',
     docsDir: 'vuepressBlog',
     lastUpdatedText: '',
