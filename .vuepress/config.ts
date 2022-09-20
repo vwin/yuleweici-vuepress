@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 import recoTheme from 'vuepress-theme-reco'
 
 export default defineUserConfig({
-  base: '/yuleweici-vuepress//',
+  base: '/yuleweici-vuepress/',
   title: 'Yule-Vue',
   description: 'Just For Fun',
   head: [
